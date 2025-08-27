@@ -5,4 +5,4 @@
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=megatocha&theme=dark&hide_border=true)
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmegatocha&s=40&c=ffffff&bg=00000000&no=1&ff=electrolize&tb=%5B&ta=%5D+visitors)
+![](https://komarev.com/ghpvc/?username=megatocha&color=green&style=for-the-badge)
