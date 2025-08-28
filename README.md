@@ -1,14 +1,10 @@
 <div align="center">
-  <h2>🌐 Connect</h2>
-  <a href="https://t.me/megatocha">
-    <img src="https://img.shields.io/badge/Tochka!-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/28gAgc4Q">
-    <img src="https://img.shields.io/badge/megatochka-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561199059158883/">
-    <img src="https://img.shields.io/badge/テトラヒドロカンナビ-%23000000.svg?logo=steam&logoColor=white&style=for-the-badge" alt="Steam">
-  </a>
+<h2>🌐 Connect</h2>
+
+[![Telegram](https://img.shields.io/badge/Tochka!-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/megatocha)
+[![Discord](https://img.shields.io/badge/megatochka-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/28gAgc4Q)
+[![Steam](https://img.shields.io/badge/テトラヒドロカンナビ-%23000000.svg?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/profiles/76561199059158883/)
+
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
