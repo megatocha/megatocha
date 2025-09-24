@@ -9,7 +9,6 @@
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=megatocha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Megatocha's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megatocha&layout=compact&theme=buefy&hide_border=true" alt="Megatocha's top languages" />
 </div>
 <div align="center">
