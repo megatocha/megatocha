@@ -24,9 +24,3 @@
 </table>
 
 ---
-
-<a href="https://komarev.com/ghpvc/?username=megatocha&color=green&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=megatocha&color=green&style=for-the-badge&label=👀+Profile+Views" alt="Profile views">
-</a>
-
-![](https://hit.yhype.me/github/profile?account_id=127956346)
